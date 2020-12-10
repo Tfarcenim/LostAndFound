@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lostandfound:block/lost_and_found"
+    }
+  }
+}
